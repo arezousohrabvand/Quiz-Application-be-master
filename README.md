@@ -1,4 +1,4 @@
-# diana-quiz-be
+# Dinna & Arezou-quiz-be
 
 ### Compiles and hot-reloads for development
 
