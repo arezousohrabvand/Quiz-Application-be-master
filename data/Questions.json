@@ -1,0 +1,53 @@
+[
+    {
+        "query": "What does JSON stand for?",
+        "choices": [{
+            "key": "a",
+            "description": "Java Standard Output Network"
+        }, {
+            "key": "b",
+            "description": "JavaScript Object Notation"
+        }, {
+            "key": "c",
+            "description": "JavaScript Output Name"
+        }, {
+            "key": "d",
+            "description": "Java Source Object Notation"
+        }],
+        "correct": "b"
+    },
+    {
+        "query": "Which of the following is not a JavaScript Data Type?",
+        "choices": [{
+            "key": "a",
+            "description": "Undefined"
+        }, {
+            "key": "b",
+            "description": "Number"
+        }, {
+            "key": "c",
+            "description": "Boolean"
+        }, {
+            "key": "d",
+            "description": "Float"
+        }],
+        "correct": "d"
+    },
+    {
+        "query": "Inside which HTML element do we put JavaScript code?",
+        "choices": [{
+            "key": "a",
+            "description": "<script>"
+        }, {
+            "key": "b",
+            "description": "<head>"
+        }, {
+            "key": "c",
+            "description": "<meta>"
+        }, {
+            "key": "d",
+            "description": "<style>"
+        }],
+        "correct": "a"
+    }
+]
